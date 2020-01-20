@@ -37,4 +37,4 @@
 - Come si accede ai campi di un array. 
 - Quanto spazio occupa un array e come sono "posizionati" i dati nella memoria?
 - E' possibile definire un array multidimensionale?
----
+- Come si accede ai campi di un array di tipo `struct`?
