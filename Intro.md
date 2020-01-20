@@ -1,8 +1,5 @@
 # Esercizi informatica
 
-- - -
-- - -
-
 ## Variabili e tipi di dato
 
 
