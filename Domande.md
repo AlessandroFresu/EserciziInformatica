@@ -8,6 +8,8 @@
   - Cosa si intende per variabile?
   - Qual'è la differenza tra assegnazione e dichiarazione?
   - Cosa è lo __scope__ (visibilità) di una variabile?
+  - Qual'è output del seguente codice?
+    ![image](https://github.com/AlessandroFresu/EserciziInformatica/blob/master/immagini/scope_1.png)
 ---
 ## Costrutti decisionali
  - Quali operatori si utilizzano per il confronto di più elementi?
